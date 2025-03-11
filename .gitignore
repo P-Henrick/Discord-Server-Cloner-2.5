@@ -3,3 +3,4 @@ bypass.ts
 pnpm-lock.yaml
 666.json
 node_modules
+.env
