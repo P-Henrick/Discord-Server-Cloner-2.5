@@ -5,3 +5,6 @@ pnpm-lock.yaml
 node_modules
 .env
 .env
+.env
+package-lock.json
+yarn.lock
